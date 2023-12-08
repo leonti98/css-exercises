@@ -1,0 +1,14 @@
+.bu1,
+.bu2 {
+    font-family: Helvetica, "Times New Romana", sans-serif;
+    font-size: 28px;
+}
+
+.but1 {
+    background-color: black;
+    color: white;
+}
+
+.but2 {
+    background-color: yellow;
+}
