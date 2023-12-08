@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgba(185, 47, 47, 0.547);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#n2{
+    color: #0000ff;
+    font-size: 32px;
+}
+
+#n3{
+    font-size: 24px;
+}
+
+#n4{
+    background-color: rgba(17, 226, 17, 0.387);
+    font-size: 24px;
+    font-weight: bold;
+}
